@@ -2,7 +2,7 @@
 #include <string>
 #include <conio.h>
 #include <limits>
-#include "Moon.h"
+#include "Earth.hpp"
 
 void spaceTripQuestion();
 void briefing();
@@ -29,8 +29,10 @@ int main()
 
 
 
-    Moon moonObj;
-    moonObj.moonSize();
+    Earth earthObj;
+    earthObj.introduction();
+    earthObj.question1();
+
     return 0;
 }
 

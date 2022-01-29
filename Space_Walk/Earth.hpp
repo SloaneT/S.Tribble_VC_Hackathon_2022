@@ -69,7 +69,7 @@ void Earth::question1(){
    plastic lighters, toothbrushes, water bottles, pens, baby bottles, cell phones and plastic bags.\
 \n\nThe patch is estimated to increase in size 10-fold each decade, and currently contains more than 2.7 million metric tons of plastic.\n\n\[ANY]"<< std::endl;
 getch();
-std::cout<<"\n\nIf Earth continues to be polluted at this rate, people may wish to move to other,\n cleaner planets.\n[ANY]" << '\n';
+std::cout<<"\n\nIf Earth continues to be polluted at this rate, people may wish to move to \nother, cleaner planets.\n[ANY]" << '\n';
 getch();
   return;
 }
