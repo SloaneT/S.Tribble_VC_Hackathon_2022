@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643496219 source:c:\vc hackathon\s.tribble_vc_hackathon_2022\class_prototypes\main.cpp
+	<iostream>
+	"Earth.hpp"
+
+1643496629 c:\vc hackathon\s.tribble_vc_hackathon_2022\class_prototypes\earth.hpp
+	<iostream>
+	<string>
+	<conio.h>
+	<limits>
+
