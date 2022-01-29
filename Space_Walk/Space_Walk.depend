@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1643427548 source:c:\vc hackathon\s.tribble_vc_hackathon_2022\space_walk\moon.cpp
+	<iostream>
+	<string>
+	"Moon.h"
+
+1643427334 c:\vc hackathon\s.tribble_vc_hackathon_2022\space_walk\moon.h
+
+1643427433 source:c:\vc hackathon\s.tribble_vc_hackathon_2022\space_walk\main.cpp
+	<iostream>
+	<string>
+	"Moon.h"
+
