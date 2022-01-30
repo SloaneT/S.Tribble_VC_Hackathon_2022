@@ -3,6 +3,8 @@
 #include <conio.h>
 #include <limits>
 #include "Earth.hpp"
+#include "Mars.hpp"
+#include "Deeper.hpp"
 
 void spaceTripQuestion();
 void briefing();
@@ -32,6 +34,16 @@ int main()
     Earth earthObj;
     earthObj.introduction();
     earthObj.question1();
+
+    Mars marsObj;
+    marsObj.intro();
+    marsObj.facts();
+    marsObj.colonization();
+
+    Deeper deep;
+    deep.intro();
+    deep.distance();
+    deep.hubble();
 
     return 0;
 }

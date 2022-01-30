@@ -39,9 +39,9 @@ void Earth::introduction(){
             std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // consume wrong input
     }
   }
-  std::cout << "Correct!  And because solar luminosity will continue to increase over time, Earth's average temperature\
+  std::cout << "\n\nCorrect!  And because solar luminosity will continue to increase over time, Earth's average temperature\
   is expected to reach 100 degrees celsius in the next 1.5 billion years, causing all of Earth's water to evaporate.\
-  \n\nWhere will we live when all of Earth's water is gone?\n[ANY KEY]" << '\n';
+  \n\nWhere will we live when all of Earth's water is gone?\n\n[ANY KEY]" << '\n';
   getch();
   return;
 }
@@ -49,7 +49,7 @@ void Earth::introduction(){
 
 
 void Earth::question1(){
-    std::cout <<"\nAs you continue to gaze down at Earth, your materials scanner detects a large mass floating in the Pacific Ocean.\
+    std::cout <<"\n\nAs you continue to gaze down at Earth, your materials scanner detects a large mass floating in the Pacific Ocean.\
 \n\nWhat could this be?"<<std::endl;
     std::string answer = "";
     for (;;) {
@@ -64,12 +64,12 @@ void Earth::question1(){
             std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // consume wrong input
     }
   }
-  std::cout << "Correct! A common misconception is that the Pacific Garbage patch is a great floating island, but it's not actually dense enough to\
+  std::cout << "\n\nCorrect! A common misconception is that the Pacific Garbage patch is a great floating island, but it's not actually dense enough to\
   be seen from space.  This is because it is not so much a \"garbage patch \" as it is a massive system of microplastics combined with\
    plastic lighters, toothbrushes, water bottles, pens, baby bottles, cell phones and plastic bags.\
 \n\nThe patch is estimated to increase in size 10-fold each decade, and currently contains more than 2.7 million metric tons of plastic.\n\n\[ANY]"<< std::endl;
 getch();
-std::cout<<"\n\nIf Earth continues to be polluted at this rate, people may wish to move to \nother, cleaner planets.\n[ANY]" << '\n';
+std::cout<<"\n\nIf Earth continues to be polluted at this rate, people may wish to move to \nother, cleaner planets.\n\n[ANY]" << '\n';
 getch();
   return;
 }

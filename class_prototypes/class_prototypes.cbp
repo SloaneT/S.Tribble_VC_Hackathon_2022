@@ -34,6 +34,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Deeper.hpp" />
 		<Unit filename="Earth.hpp" />
 		<Unit filename="Mars.hpp" />
 		<Unit filename="main.cpp" />

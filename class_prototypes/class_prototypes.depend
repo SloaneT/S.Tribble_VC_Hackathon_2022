@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1643509828 source:c:\vc hackathon\s.tribble_vc_hackathon_2022\class_prototypes\main.cpp
+1643511509 source:c:\vc hackathon\s.tribble_vc_hackathon_2022\class_prototypes\main.cpp
 	<iostream>
 	"Earth.hpp"
 	"Mars.hpp"
+	"Deeper.hpp"
 
 1643498686 c:\vc hackathon\s.tribble_vc_hackathon_2022\class_prototypes\earth.hpp
 	<iostream>
@@ -10,7 +11,13 @@
 	<conio.h>
 	<limits>
 
-1643509942 c:\vc hackathon\s.tribble_vc_hackathon_2022\class_prototypes\mars.hpp
+1643509990 c:\vc hackathon\s.tribble_vc_hackathon_2022\class_prototypes\mars.hpp
+	<iostream>
+	<string>
+	<conio.h>
+	<limits>
+
+1643511690 c:\vc hackathon\s.tribble_vc_hackathon_2022\class_prototypes\deeper.hpp
 	<iostream>
 	<string>
 	<conio.h>
