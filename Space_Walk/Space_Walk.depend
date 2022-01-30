@@ -6,10 +6,30 @@
 
 1643427334 c:\vc hackathon\s.tribble_vc_hackathon_2022\space_walk\moon.h
 
-1643493900 source:c:\vc hackathon\s.tribble_vc_hackathon_2022\space_walk\main.cpp
+1643517021 source:c:\vc hackathon\s.tribble_vc_hackathon_2022\space_walk\main.cpp
 	<iostream>
 	<string>
 	<conio.h>
 	<limits>
-	"Moon.h"
+	"Earth.hpp"
+	"Mars.hpp"
+	"Deeper.hpp"
+
+1643513806 c:\vc hackathon\s.tribble_vc_hackathon_2022\space_walk\earth.hpp
+	<iostream>
+	<string>
+	<conio.h>
+	<limits>
+
+1643512338 c:\vc hackathon\s.tribble_vc_hackathon_2022\space_walk\mars.hpp
+	<iostream>
+	<string>
+	<conio.h>
+	<limits>
+
+1643512343 c:\vc hackathon\s.tribble_vc_hackathon_2022\space_walk\deeper.hpp
+	<iostream>
+	<string>
+	<conio.h>
+	<limits>
 

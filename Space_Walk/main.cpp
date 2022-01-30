@@ -15,7 +15,7 @@ void debriefing();
 int main()
 {
 
-    std::cout << "\n=======**** SPACE WALK **** =======\n\n";
+    std::cout << "\n=======**** SPACE WALKER **** =======\n\n";
     std::cout << "Greetings, planet walker.  What is your name?" << std::endl;
     std::string name;
     std::cin >> name;
