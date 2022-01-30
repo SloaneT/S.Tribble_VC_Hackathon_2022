@@ -65,7 +65,7 @@ void Earth::question1(){
     }
   }
   std::cout << "\n\nCorrect! A common misconception is that the Pacific Garbage patch is a great floating island, but it's not actually dense enough to\
-  be seen from space.  This is because it is not so much a \"garbage patch \" as it is a massive system of microplastics combined with\
+  be seen from space.  \n\nThis is because it is not so much a \"garbage patch \" as it is a massive system of microplastics combined with\
    plastic lighters, toothbrushes, water bottles, pens, baby bottles, cell phones and plastic bags.\
 \n\nThe patch is estimated to increase in size 10-fold each decade, and currently contains more than 2.7 million metric tons of plastic.\n\n\[ANY]"<< std::endl;
 getch();
